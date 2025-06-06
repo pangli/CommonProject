@@ -2,9 +2,9 @@ import os
 
 # 替换规则（按顺序执行）
 REPLACEMENTS = [
-    ("GoPang", "ToZorro"),
-    ("Pang", "Zorro"),
-    ("pang", "zorro")
+    ("ByBeth", "ToGian"),
+    ("Beth", "Gian"),
+    ("beth", "gian")
 ]
 
 
